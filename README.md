@@ -19,7 +19,7 @@ Follow these instructions to set up and run the project on your local machine fo
 
 1. Navigate to the front-end directory:
     ```bash
-    cd path/to/frontend-directory
+    cd path/to/sentiment-analysis-project-master
     ```
 
 2. Install the required dependencies:
@@ -38,7 +38,7 @@ The React application should now be running on `http://localhost:3000`.
 
 1. Navigate to the Flask server directory:
     ```bash
-    cd path/to/flask-server-directory
+    cd path/to/flask-server
     ```
 
 2. Install the required dependencies:
